@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASH KHAMBHATI</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
-### About
+
+### About me
 I am fresher as an iOS Developer skilled in making apps for Apple devices like iPhone, iPad. I use programming languages Swift. I design, build, and release apps, focusing on good looks and ease of use. I also connect apps to online services and use tools like UIKit, Core Data, and SwiftUI. I keep up with the latest iOS updates and always aim to make apps better.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkhambhati01&label=Profile%20views&color=0e75b6&style=flat" alt="yashkhambhati01" /> </p>
